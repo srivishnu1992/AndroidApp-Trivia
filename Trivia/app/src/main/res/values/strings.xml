@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="welcomemessage">Welcome to Trivia App</string>
+    <string name="exitButton">Exit</string>
+    <string name="startButton">Start Trivia</string>
+    <string name="nullString"></string>>
+    <string name="loading">Loading Trivia</string>
+    <string name="Q1">Q1</string>
+    <string name="btnQuit">Quit</string>
+    <string name="btnNext">Next</string>
+    <string name="noImage">No Image</string>
+    <string name="btnExit">Exit</string>
+    <string name="statshead">Trivia Stats</string>
+    <string name="correct">Correct Answers</string>
+    <string name="statsmessage">Try again and see if you can get all the correct answers!</string>
+    <string name="tryagain">Try Again</string>
+</resources>
